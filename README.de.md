@@ -1,4 +1,4 @@
-# Sinatra
+# Sinatra change
 
 *Wichtig: Dieses Dokument ist eine Übersetzung aus dem Englischen und unter
 Umständen nicht auf dem aktuellen Stand (aktuell Sinatra 1.4.5).*
